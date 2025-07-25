@@ -11,4 +11,4 @@ syncUserUpdation,
 syncUserDeletion
 
   ],
-});
+}); 
